@@ -17,6 +17,9 @@
     <application path="Express.mxml">
       <airExcludes/>
     </application>
+    <application path="admin.mxml">
+      <airExcludes/>
+    </application>
   </applications>
   <modules/>
   <buildCSSFiles/>
